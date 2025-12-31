@@ -1,1 +1,1 @@
-Query result screenshots from MySQL Workbench.
+Business presentation summarizing key insights from the pizza sales analysis.
